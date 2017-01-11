@@ -3,4 +3,13 @@
   <groupId>PCI-DSS</groupId>
   <artifactId>PCI-DSS-TEST</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+
+<repositories>
+    <repository>
+    <id>Private_Snapshot</id>
+    <url>http://localhost:8081/nexus/content/repositories/Private_Snapshot</url>
+    </repository>
+ </repositories>
+
 </project>
