@@ -60,7 +60,6 @@
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
-
 </plugins>
 </build>
 
