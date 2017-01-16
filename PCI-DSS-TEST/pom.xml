@@ -26,6 +26,7 @@
 		<configuration>
 		<warSourceDirectory>WebContent</warSourceDirectory>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
+		<warName>ROOT</warName>
 		</configuration>
 </plugin>
 
